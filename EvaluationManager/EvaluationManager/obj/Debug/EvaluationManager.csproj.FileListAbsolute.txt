@@ -1,0 +1,6 @@
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.csproj.AssemblyReference.cache
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.csproj.SuggestedBindingRedirects.cache
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.FrmLogin.resources
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.Properties.Resources.resources
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.csproj.GenerateResource.cache
+D:\aflorijan\EvaluationManager\EvaluationManager\obj\Debug\EvaluationManager.csproj.CoreCompileInputs.cache
